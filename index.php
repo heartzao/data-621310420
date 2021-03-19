@@ -27,7 +27,7 @@
             <input type="password" name="pwd" id="inputPassword" class="form-control" placeholder="Password" required="">
 
             Choose number
-            <select class="form-select" aria-label="Default select example">
+            <select class="form-select" aria-label="Default select example" name="time">
                 <option selected>Open this select menu</option>
                 <option value="1">one</option>
                 <option value="2">two</option>
