@@ -29,9 +29,9 @@
             Choose number
             <select class="form-select" aria-label="Default select example">
                 <option selected>Open this select menu</option>
-                <option value="1">1</option>
-                <option value="2">2</option>
-                <option value="3">3</option>
+                <option value="1">one</option>
+                <option value="2">two</option>
+                <option value="3">three</option>
             </select>
 
             
